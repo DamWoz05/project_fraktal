@@ -1,0 +1,3 @@
+#!G:\pythonik\PycharmProjects\project_fraktal\Scripts\python.exe
+from numba.pycc import main
+main()
